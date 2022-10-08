@@ -1,4 +1,4 @@
-### Olá eu sou Rhuann Bittencourt 👋
+### Olá! eu sou Rhuann Bittencourt 👋
 
 <div align="center">
   <a href="https://github.com/RhuanBittencourt">
